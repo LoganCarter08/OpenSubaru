@@ -1,6 +1,6 @@
 # OpenSubaru
 
-This is a project to store any information for Subarus that may not be easy to acquire with a quick Google. One day his repo may 
+This is a project to store any information for Subarus that may not be easy to acquire with a quick Google. One day this repo may 
 include anything from 3D models for bushings, open source diff controllers, or simple DIY guides. 
 
 ## Reasoning:
