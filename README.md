@@ -20,3 +20,8 @@ Want to start a business and sell physical versions of models in this repo? Do i
 
 If you would like to contribute to this repo in any way please reach out to me and let me know. I would love to include old and 
 unique models too. Looking at you SVX owners. 
+
+## Notes:
+
+Please refer to the Notes.md files in the folder system. This should give some background on what the corresponding OEM part number 
+is, what car the part came from, or any other information that may be important. 
